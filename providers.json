@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "dramaFrenWebsite": "https://v2.dramafren.org/",
+  "stremioAddons": [],
+  "extensionRepos": [
+    "https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json",
+    "https://raw.githubusercontent.com/salmanbappi/extensions-repo/main/index.min.json"
+  ],
+  "providers": [
+    {
+      "key": "dramafren",
+      "name": "DramaFren",
+      "url": "https://v2.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "dramabox",
+      "name": "DramaBox",
+      "url": "https://dramabox.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "dramabox2",
+      "name": "DramaBox 2",
+      "url": "https://dramabox2.dramafren.org/",
+      "hidden": true
+    },
+    {
+      "key": "goodshort",
+      "name": "GoodShort",
+      "url": "https://goodshort.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "netshort",
+      "name": "NetShort",
+      "url": "https://netshort.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "flickreels",
+      "name": "FlickReels",
+      "url": "https://flickreels.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "stardusttv",
+      "name": "StarDustTV",
+      "url": "https://stardusttv.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "dramawave",
+      "name": "DramaWave",
+      "url": "https://dramawave.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "shortmax",
+      "name": "ShortMax",
+      "url": "https://shortmax.shorttw.live/",
+      "hidden": false
+    },
+    {
+      "key": "reelshort",
+      "name": "ReelShort",
+      "url": "https://reelshort.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "idrama",
+      "name": "iDrama",
+      "url": "https://idrama.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "flextv",
+      "name": "FlexTV",
+      "url": "https://flextv.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "starshort",
+      "name": "StarShort",
+      "url": "https://starshort.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "kalostv",
+      "name": "KalosTV",
+      "url": "https://kalostv.dramafren.org/",
+      "hidden": true
+    },
+    {
+      "key": "dramabite",
+      "name": "DramaBite",
+      "url": "https://dramabite.dramafren.org/",
+      "hidden": true
+    },
+    {
+      "key": "dramapops",
+      "name": "DramaPops",
+      "url": "https://dramapops.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "microdrama",
+      "name": "MicroDrama",
+      "url": "https://microdrama.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "shortwave",
+      "name": "ShortWave",
+      "url": "https://shortwave.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "moboreels",
+      "name": "MoboReels",
+      "url": "https://moboreels.dramafren.org/",
+      "hidden": false
+    },
+    {
+      "key": "reelfren",
+      "name": "ReelFren",
+      "url": "https://reelfren.net/",
+      "hidden": false
+    },
+    {
+      "key": "radreel",
+      "name": "RadReel",
+      "url": "https://radreel.dramafren.org/",
+      "hidden": true
+    },
+    {
+      "key": "viglo",
+      "name": "Viglo",
+      "url": "https://viglo.dramafren.org/",
+      "hidden": true
+    },
+    {
+      "key": "crowndrama",
+      "name": "CrownDrama",
+      "url": "https://crowndrama.com/",
+      "hidden": true
+    },
+    {
+      "key": "directdrama",
+      "name": "DirectDrama",
+      "url": "https://directdrama.com/",
+      "hidden": false
+    },
+    {
+      "key": "dramadark",
+      "name": "DramaDark",
+      "url": "https://dramadark.com/",
+      "hidden": false
+    },
+    {
+      "key": "watchdrama",
+      "name": "WatchDrama",
+      "url": "https://watchdrama.app/",
+      "hidden": false
+    },
+    {
+      "key": "dailymotion",
+      "name": "Dailymotion",
+      "url": "https://api.dailymotion.com/",
+      "hidden": false
+    },
+    {
+      "key": "stremio",
+      "name": "Stremio",
+      "url": "https://v3-cinemeta.strem.io/",
+      "hidden": false
+    }
+  ]
+}
