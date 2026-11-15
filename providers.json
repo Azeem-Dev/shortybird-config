@@ -6,6 +6,10 @@
     "https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json",
     "https://raw.githubusercontent.com/salmanbappi/extensions-repo/main/index.min.json"
   ],
+  "storyModel": {
+    "model": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-minilm-v1/model_quantized.onnx",
+    "vocab": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-minilm-v1/vocab.txt"
+  },
   "providers": [
     {
       "key": "dramafren",
