@@ -180,6 +180,12 @@
       "name": "Stremio",
       "url": "https://v3-cinemeta.strem.io/",
       "hidden": false
+    },
+    {
+      "key": "dramaexpress",
+      "name": "DramaExpress",
+      "url": "https://dramaexpress.net/",
+      "hidden": false
     }
   ],
   "storyIndex": "https://github.com/Azeem-Dev/shortybird-config/releases/download/story-index/story_index_shared.db.gz"
