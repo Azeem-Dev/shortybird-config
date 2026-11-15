@@ -4,11 +4,13 @@
   "stremioAddons": [],
   "extensionRepos": [
     "https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json",
-    "https://raw.githubusercontent.com/salmanbappi/extensions-repo/main/index.min.json"
+    "https://raw.githubusercontent.com/salmanbappi/extensions-repo/main/index.min.json",
+    "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/index.min.json"
   ],
   "storyModel": {
-    "model": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-minilm-v1/model_quantized.onnx",
-    "vocab": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-minilm-v1/vocab.txt"
+    "embedder": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-v2/embed.onnx",
+    "reranker": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-v2/rerank.onnx",
+    "vocab": "https://github.com/Azeem-Dev/shortybird-config/releases/download/model-v2/vocab.txt"
   },
   "providers": [
     {
@@ -179,5 +181,6 @@
       "url": "https://v3-cinemeta.strem.io/",
       "hidden": false
     }
-  ]
+  ],
+  "storyIndex": "https://github.com/Azeem-Dev/shortybird-config/releases/download/story-index/story_index_shared.db.gz"
 }
