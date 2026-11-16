@@ -95,13 +95,13 @@
       "key": "kalostv",
       "name": "KalosTV",
       "url": "https://kalostv.dramafren.org/",
-      "hidden": true
+      "hidden": false
     },
     {
       "key": "dramabite",
       "name": "DramaBite",
       "url": "https://dramabite.dramafren.org/",
-      "hidden": true
+      "hidden": false
     },
     {
       "key": "dramapops",
